@@ -1,0 +1,104 @@
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+body {
+    text-align: center;
+
+}
+#home{
+    background: linear-gradient(#a4ffd8 10%,#21daff 90%);
+}
+
+
+.hello {
+    font-family: cursive;
+    color:deeppink;
+    text-shadow: 2px 2px #ffd60a;
+    font-size: 40px;
+}
+
+.hobbies {
+    color:rgb(255, 168, 133);
+    font-size: 35px ;
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    right: 30px;
+    left: 5px;
+    cursor: pointer;
+    background:ghostwhite;
+    width: 150%;
+    margin-top: -5px;
+
+  }
+
+  .link {
+    float: left;
+    color:violet;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 35px;
+    font-family: 'Festive', cursive;
+ }
+
+ .link:hover {
+     background-color:mistyrose ;
+     text-decoration: underline;
+     font-size: 40px;
+ }
+
+ #menu {
+    background: linear-gradient(#ffd60a 10%,#ff4d6d 90%);
+    font-size: 30px;
+}
+
+#pictures {
+    background: linear-gradient( #fcb1a6 10%,#00a6fb 90%);
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 35px;
+    color: black;
+}
+
+#home {
+    background: linear-gradient(#fac9b8 10%, #80ffdb 90%);
+    font-size: 30px;
+}
+
+
+#location{
+    background: linear-gradient(#eabfcb 10%, #aaf683 90%);
+    font-size: 30px;
+    text-align: center;
+}
+
+.i {
+  width:500px;
+  height:500px;
+  border-radius: 0;
+}
+
+.is {
+    width:600px;
+    height:500px;
+    border-radius: 0;
+  }
+  
+img:hover {
+    transform: scale(0.9)
+}
+
+.m {
+    width:900px;
+  height:500px;
+
+}
